@@ -1,0 +1,18 @@
+.group, 
+.selectlabel, 
+.submitbutton {
+  margin: 0px;
+  display: inline-block;
+  *display: inline;
+  vertical-align: top;}
+.selectlabel {
+  color: #666666;
+  font-weight: bold;
+  font-size: 65pt;}
+.submitbutton {
+  width: 25%;
+  height: 40px;
+  background-color: #6CB5DE;
+  border: 0px;
+  radius: 4px;
+  font-size: 14pt;}
