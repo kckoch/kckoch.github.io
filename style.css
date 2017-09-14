@@ -3,7 +3,7 @@
 .submitbutton {
   margin: 0px;
   display: inline-block;
-  *display: inline;
+  poisition: relative;
   vertical-align: top;}
 .selectlabel {
   color: #666666;
